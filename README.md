@@ -41,7 +41,7 @@ ___
     - __Juan Maya__
 
         ```
-        ...
+        Soy Colombiano. Vivo en Medellin, Colombia. Tengo 39 años.
     ___
 
 + ## ___Referentes___
