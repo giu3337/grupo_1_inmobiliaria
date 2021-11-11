@@ -45,23 +45,6 @@ ___
     ___
 
 + ## ___Referentes___
-    - [___vvv___]
-        ()
-        ![]
-        ()
-        ```
-        Detalle...
-    ___
-
-    - [___www___]
-        ()
-        ![]
-        ()
-        ```
-        Detalle...
-    ___ 
-
-
 
 https://www.arrendamientossantafe.com/
 https://anutibara.com/
