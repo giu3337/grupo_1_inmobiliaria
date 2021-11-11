@@ -23,29 +23,25 @@ ___
     - __www__
 
         ```
-        Diseñador Multimedial, Productor Audiovisual, Músico, 24 años.
-        6 años en el mundo de la programacion, me desarrollo en la parte del Front End.
+        ...
     ___
 
     - __xxx__
 
         ```
-        Dedicado a la Docencia desde el año 1991. Venezolano. Interesado en el Cloud Computing,
-        como en la Seguridad Informatica.
+        ...
     ___
 
     - __yyy__
 
         ```
-        Dedicado a la Docencia desde el año 1991. Venezolano. Interesado en el Cloud Computing,
-        como en la Seguridad Informatica.
+        ...
     ___
 
     - __Juan Maya__
 
         ```
-        Dedicado a la Docencia desde el año 1991. Venezolano. Interesado en el Cloud Computing,
-        como en la Seguridad Informatica.
+        ...
     ___
 
 + ## ___Referentes___
