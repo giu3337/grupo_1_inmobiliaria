@@ -56,6 +56,7 @@ ___
     ___
     - __[Metro Cuadrado](https://www.metrocuadrado.com/)__
         ```
+        Es un sitio mucho mas complejo, con mayores herramientas como calculadores de seguros y créditos. Cuentan con aplicaciones móviles para Android e iOS. Es una empresa mucho mas posicionada a nivel local.
     ___
     - __[Finca Raiz](https://www.fincaraiz.com.co/)__
         ```
