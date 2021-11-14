@@ -9,7 +9,7 @@ ___
 
 + ## ___Publico Objetivo___
     ```
-    ...
+    Personas jóvenes, entre 25 y 35 años, que están interesados en adquirir vivienda nueva o usada. Que busquen espacios acordes a sus necesidades en esta etapa de la vida. Lugares modernos, tranquilos, agradables.
 ___
 
 + ## ___Caracteristicas Principales___
