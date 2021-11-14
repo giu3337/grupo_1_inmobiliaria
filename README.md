@@ -20,12 +20,12 @@ ___
 
 + ## ___Integrantes___
 
-    __Giuseppe__
+   - __Giuseppe__
 
         Un gusto, soy Giuseppe, estudiante de Psicología y estudio desarrollo web también 
     ___
 
-   -Alexis Vazquez   
+   - __Alexis Vazquez__
 
         ```
         ...
