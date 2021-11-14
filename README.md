@@ -60,6 +60,7 @@ ___
     ___
     - __[Finca Raiz](https://www.fincaraiz.com.co/)__
         ```
+        Al igual que la anterior, es una empresa posicionada a nivel local, con tradición en el mercado. Cuenta con aplicación móvil. Es un sitio limpio, y moderno. Con una gran estructura, llamativo. Me parece sobrio y elegante. Que genera seguridad.
     ___
     - __[El Castillo](https://www.arrendamientoselcastillo.com.co/)__
         ```
