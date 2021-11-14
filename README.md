@@ -20,13 +20,13 @@ ___
 
 + ## ___Integrantes___
 
-    - __www__
+    - Giuseppe García
 
         ```
         ...
     ___
 
-    - __xxx__
+    - __xxx_
 
         ```
         ...
