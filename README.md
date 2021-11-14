@@ -50,19 +50,43 @@ ___
         Es un sitio reconocido localmente para renta y compra de inmuebles. Tiene un diseño sencillo y limpio. Con la información básica. Fácil de navegar.
     ___
 
-    - __[]()__
-    ```
-
+    - __[Nutibara](https://anutibara.com/)__
+        ```
     ___
-[Nutibara](https://anutibara.com/)
-[Metro Cuadrado](https://www.metrocuadrado.com/)
-[Finca Raiz](https://www.fincaraiz.com.co/)
-[El Castillo](https://www.arrendamientoselcastillo.com.co/)
-[Umbral](https://arrendamientosumbral.co/)
-[Habi](https://habi.co/)
-[Alberto Alvarez](https://albertoalvarez.com/)
-[Inmobiliaria Ospina](https://www.inmobiliariaospina.com/)
-[Envigado SA](https://www.arrendamientosenvigadosa.com/)
+    - __[Metro Cuadrado](https://www.metrocuadrado.com/)__
+        ```
+    ___
+    - __[Finca Raiz](https://www.fincaraiz.com.co/)__
+        ```
+    ___
+    - __[El Castillo](https://www.arrendamientoselcastillo.com.co/)__
+        ```
+    ___
+    - __[Umbral](https://arrendamientosumbral.co/)__
+        ```
+    ___
+    - __[Habi](https://habi.co/)__
+        ```
+    ___
+    - __[Alberto Alvarez](https://albertoalvarez.com/)__
+        ```
+    ___
+    - __[Inmobiliaria Ospina](https://www.inmobiliariaospina.com/)__
+        ```
+    ___
+    - __[Envigado SA](https://www.arrendamientosenvigadosa.com/)__
+        ```
+    ___
+
+
+
+
+
+
+
+
+
+
 
 
 
