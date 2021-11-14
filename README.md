@@ -32,7 +32,7 @@ ___
         ...
     ___
 
-    - Tomas Pereda
+    - __Tomas Pereda__
 
         ```
         ...
