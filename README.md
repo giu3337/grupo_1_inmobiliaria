@@ -20,10 +20,9 @@ ___
 
 + ## ___Integrantes___
 
-    - Giuseppe García
+    __Giuseppe__
 
-        ```
-        ...
+        Un gusto, soy Giuseppe, estudiante de Psicología y estudio desarrollo web también 
     ___
 
    -Alexis Vazquez   
