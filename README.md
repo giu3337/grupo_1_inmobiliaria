@@ -64,6 +64,7 @@ ___
     ___
     - __[El Castillo](https://www.arrendamientoselcastillo.com.co/)__
         ```
+        Es una empresa tradicional del sector inmobiliario. Es un sitio con una estructura un poco diferente. Con unos colores diferentes a los demás sitios. Es un grupo empresarial consolidado. Resalta el color verde, como si quisieran generar tranquilidad a la persona que visita el sitio.
     ___
     - __[Umbral](https://arrendamientosumbral.co/)__
         ```
