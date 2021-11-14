@@ -70,12 +70,15 @@ ___
     ___
     - __[Habi](https://habi.co/)__
         ```
+        Es un concepto diferente en temas de propiedad raíz; ya que te compran la casa de manera inmediata, y ellos luego la ponen en venta. Es una empresa que tiene detrás un gran respaldo de instituciones financieras reconocidas localmente con gran musculo financiero. Tienen un gran diseño, limpio y agradable.
     ___
     - __[Alberto Alvarez](https://albertoalvarez.com/)__
         ```
+        Otro ejemplo. Nada novedoso en particular.
     ___
     - __[Envigado SA](https://www.arrendamientosenvigadosa.com/)__
         ```
+        Otro ejemplo. Nada novedoso en particular.
     ___
 
 
