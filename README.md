@@ -68,6 +68,7 @@ ___
     ___
     - __[Umbral](https://arrendamientosumbral.co/)__
         ```
+        Es un sitio que tiene una imagen de entrada que te bloquea la página principal, que es llamativo, como resaltando la información que allí se presenta. Lo novedoso de este sitio es que tienen una revista digital con los proyectos que ofertan.
     ___
     - __[Habi](https://habi.co/)__
         ```
