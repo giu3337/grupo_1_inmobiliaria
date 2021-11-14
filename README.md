@@ -44,12 +44,10 @@ ___
     ___
 
 + ## ___Referentes___
-
-    - __[SantaFe](https://www.arrendamientossantafe.com/)__
+    - __[Inmobiliaria Ospina](https://www.inmobiliariaospina.com/)__
         ```
         Es un sitio reconocido localmente para renta y compra de inmuebles. Tiene un diseño sencillo y limpio. Con la información básica. Fácil de navegar.
     ___
-
     - __[Nutibara](https://anutibara.com/)__
         ```
         Es un sitio moderno, con graficas en movimiento. Con opción de pago en línea. Un sitio con mas estructura, no tan básico.
@@ -74,9 +72,6 @@ ___
         ```
     ___
     - __[Alberto Alvarez](https://albertoalvarez.com/)__
-        ```
-    ___
-    - __[Inmobiliaria Ospina](https://www.inmobiliariaospina.com/)__
         ```
     ___
     - __[Envigado SA](https://www.arrendamientosenvigadosa.com/)__
