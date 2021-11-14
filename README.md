@@ -52,6 +52,7 @@ ___
 
     - __[Nutibara](https://anutibara.com/)__
         ```
+        Es un sitio moderno, con graficas en movimiento. Con opción de pago en línea. Un sitio con mas estructura, no tan básico.
     ___
     - __[Metro Cuadrado](https://www.metrocuadrado.com/)__
         ```
