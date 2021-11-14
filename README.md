@@ -47,7 +47,7 @@ ___
 
     - __[SantaFe](https://www.arrendamientossantafe.com/)__
         ```
-        
+        Es un sitio reconocido localmente para renta y compra de inmuebles. Tiene un diseño sencillo y limpio. Con la información básica. Fácil de navegar.
     ___
 [Nutibara](https://anutibara.com/)
 [Metro Cuadrado](https://www.metrocuadrado.com/)
