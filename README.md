@@ -34,7 +34,7 @@ ___
     - __Tomas Pereda__
 
         ```
-        ...
+        Mi nombre es Tomás, tengo 27 años y soy Licenciado en Comunicación Social, diplomado en Marketing digital y diseño gráfico. Actualmente soy estudiante de desarrollo web.
     ___
 
     - __Juan Maya__
