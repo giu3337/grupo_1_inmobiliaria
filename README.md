@@ -22,7 +22,7 @@ ___
 
    - __Giuseppe__
 
-        Un gusto, soy Giuseppe, estudiante de Psicología y estudio desarrollo web también 
+        Un gusto, soy Giuseppe, estudiante de Psicología y estudio desarrollo web. Me encanta la fotografía y la naturaleza. :)
     ___
 
    - __Alexis Vazquez__
