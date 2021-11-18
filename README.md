@@ -22,6 +22,7 @@ ___
 
    - __Giuseppe__
 
+        ```
         Un gusto, soy Giuseppe, estudiante de Psicología y estudio desarrollo web. Me encanta la fotografía y la naturaleza. :)
     ___
 
