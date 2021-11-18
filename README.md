@@ -27,8 +27,7 @@ ___
 
    - __Alexis Vazquez__
 
-        ```
-        ...
+hola mi nombre es alexis  , tengo 30 años , recibido de agente de propaganda medica , actualmente trabajo en una clinica privada , practico kick boxing y estoy con muchas ganas de pertenecer al mundo de la programacion .
     ___
 
     - __Tomas Pereda__
