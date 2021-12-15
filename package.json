@@ -1,0 +1,28 @@
+{
+  "name": "grupo_1_inmobiliaria",
+  "version": "1.0.0",
+  "description": "Diseño de inmobiliaria Web  / Real State Web\r ___",
+  "main": "app.js",
+  "scripts": {
+    "test":"nodemon src/app.js -e mjs,js,json,html,css",
+    "start" :"node src/app.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giu3337/grupo_1_inmobiliaria.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giu3337/grupo_1_inmobiliaria/issues"
+  },
+  "homepage": "https://github.com/giu3337/grupo_1_inmobiliaria#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
