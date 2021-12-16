@@ -18,5 +18,12 @@ h1,h2,h3,h4,h5,h6{
 }
 
 img{
-    max-width: 100%;
+    align-content:center ;
+    padding-left:100px;
+    max-width: 20%;
 }
+
+.list-product {
+    align-content:space-between;
+}
+    
